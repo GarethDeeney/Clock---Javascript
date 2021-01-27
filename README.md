@@ -1,2 +1,3 @@
 # Clock---Javascript
-Clock created with HTML, CSS + Javascript
+Clock design created with HTML and basic CSS. 
+Functionality created with Javascript.
