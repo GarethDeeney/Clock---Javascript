@@ -1,0 +1,16 @@
+html {
+  background-color: black;
+  text-align: center;
+}
+
+h1{
+  color:#48D1CC;
+  font-family: 'Turret Road', cursive;
+  font-size:3rem;
+}
+
+h2{
+  color:#48D1CC;
+  font-family: 'Turret Road', cursive;
+  font-size:2.5rem;
+}
